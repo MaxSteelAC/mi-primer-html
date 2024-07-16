@@ -1,0 +1,50 @@
+[33mcommit 5eb55e0863a681785f57aa8e4ebe0a9002ca61ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ingrid <mtra.ingrid.lopez@gmail.com>
+Date:   Tue Jul 16 12:27:51 2024 -0700
+
+    se modifico el css del header
+
+[33mcommit 680cd29a3ec2fba5d3dc81a28adff16a851c03b3[m
+Merge: ba5ddc4 e4db4bb
+Author: Ingrid <mtra.ingrid.lopez@gmail.com>
+Date:   Tue Jul 16 12:17:17 2024 -0700
+
+    Merge branch 'main' of https://github.com/MaxSteelAC/mi-primer-html
+
+[33mcommit ba5ddc437403badd3e8b38c5d542301f18f4df3d[m
+Author: Ingrid <mtra.ingrid.lopez@gmail.com>
+Date:   Tue Jul 16 12:12:42 2024 -0700
+
+    se modifico el nombre de la primera imagen
+
+[33mcommit e4db4bb78e2d34968d439b7189e22cf4c70c2f19[m
+Author: MaxSteelAC <mtra.ingrid.lopez@gmail.com>
+Date:   Mon Jul 15 14:34:16 2024 -0700
+
+    Rename Index.html to index.html
+
+[33mcommit a61db830fdf5a52caad74ef8717a44212ad2269c[m
+Author: MaxSteelAC <mtra.ingrid.lopez@gmail.com>
+Date:   Mon Jul 15 14:29:03 2024 -0700
+
+    Rename Index.Html to Index.html
+    
+    Se cambio el nombre del HTML.
+
+[33mcommit 04b88c742b0c24b66880ac6ed5e86e57f92cb076[m
+Author: Ingrid <mtra.ingrid.lopez@gmail.com>
+Date:   Mon Jul 15 13:12:22 2024 -0700
+
+    Edite el estilo del texto del archivo readme
+
+[33mcommit c67f0b6a827f242f2ca93c63d883fb34297c1032[m
+Author: Ingrid <mtra.ingrid.lopez@gmail.com>
+Date:   Mon Jul 15 13:04:21 2024 -0700
+
+    Se agregaron los archivos
+
+[33mcommit 9a2fcef0ce08839333ee17c9b182f54e7d576b89[m
+Author: MaxSteelAC <mtra.ingrid.lopez@gmail.com>
+Date:   Mon Jul 15 12:12:40 2024 -0700
+
+    Initial commit

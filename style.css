@@ -8,10 +8,11 @@ body{
 header{
     background-color: #364552;
     color: white;
+    display: block; 
     padding: 3rem 2rem;
 }
 header h1{
-    font-size: 3rem;
+    font-size: 4.5rem;
     text-align: center;
 }
 .container{
@@ -56,4 +57,14 @@ footer a{
 }
 footer a:hover{
     color: cornflowerblue;
+}
+
+@media only screen and (max-width: 600px) {
+    .container{
+        width: 100%;
+    }
+    header h1{
+        font-size: 2.5rem;
+        text-align: center;
+    }
 }
